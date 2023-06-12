@@ -8,4 +8,5 @@ end
 
 def goo2
     k = "230612_2222"
+    c = "test@mail.com"
 end
