@@ -9,3 +9,7 @@ end
 def goo2
     k = 27
 end
+
+def goo3
+    l = 28
+end
