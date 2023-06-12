@@ -7,6 +7,5 @@ def foo2
 end
 
 def goo2
-    k = "230612_2222"
-    c = "test2@mail.com"
+    k = "230612_2256"
 end
