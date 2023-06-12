@@ -3,5 +3,5 @@ def goo
 end
 
 def foo2
-    a = 12
+    a = 4
 end
