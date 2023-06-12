@@ -7,9 +7,5 @@ def foo2
 end
 
 def goo2
-    k = 27
-end
-
-def goo3
-    l = 28
+    k = "230612_2222"
 end
