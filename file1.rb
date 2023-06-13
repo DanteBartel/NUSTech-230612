@@ -6,6 +6,6 @@ def foo2
     a = 3
 end
 
-def goo3
-    b = 7
+def goo2
+    k = "230612_2256"
 end
